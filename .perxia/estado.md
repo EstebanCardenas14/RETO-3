@@ -1,0 +1,1 @@
+Etapa: implementación MVP iniciada. Decisión vigente: Next.js + TypeScript, router determinista, mock SAP por archivos y servicio con volumen persistente. Se implementan controles RC1–RC10 sobre `reto-03/`; sigue calidad, demo y despliegue.
